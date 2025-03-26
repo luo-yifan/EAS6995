@@ -252,9 +252,13 @@ git push origin main
 ## Additional Resources
 - NCAR HPC System Status: https://arc.ucar.edu/system_status
 - NCAR HPC Systems Accounting Manager: https://sam.ucar.edu/app/home
+- NCAR Research Computing (RC) Helpdesk: https://ithelp.ucar.edu/plugins/servlet/desk/site/rc
 - NCAR HPC Documentation: https://ncar-hpc-docs.readthedocs.io/en/latest, https://arc.ucar.edu/docs
+- NCAR HPC Tutorials: https://www2.cisl.ucar.edu/what-we-do/training-library/hpc-tutorials
+- NCAR HPC Research Computing Support: https://ncar-hpc-docs.readthedocs.io/en/latest/user-support/#virtual-consulting
 - Using Conda: https://ncar-hpc-docs.readthedocs.io/en/stable/environment-and-software/user-environment/conda
 - PBS User Guide: https://ncar-hpc-docs.readthedocs.io/en/latest/pbs/job-scripts
 - Module System Guide: https://ncar-hpc-docs.readthedocs.io/en/latest/environment-and-software/user-environment/modules
 - NCAR Globus Documentation: https://ncar-hpc-docs.readthedocs.io/en/latest/storage-systems/data-transfer/globus
 
+- 
